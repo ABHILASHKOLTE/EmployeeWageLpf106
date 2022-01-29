@@ -14,7 +14,7 @@ public class EmployeeWage {
             empHrs = 8;
          else
             empHrs  = 0 ;
-         
+
             empWage = empHrs * Emp_Rate_Per_Hour;
             System.out.println( "EmployeeWage" + empWage);
 
